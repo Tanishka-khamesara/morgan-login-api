@@ -1,0 +1,8 @@
+::1 - - [18/May/2024:18:04:44 +0000] "GET /app/api/response HTTP/1.1" 200 116 "-" "PostmanRuntime/7.38.0"
+::1 - - [18/May/2024:18:05:18 +0000] "GET //user/authentication HTTP/1.1" 404 159 "-" "PostmanRuntime/7.38.0"
+::1 - - [18/May/2024:18:05:26 +0000] "POST //user/authentication HTTP/1.1" 404 160 "-" "PostmanRuntime/7.38.0"
+::1 - - [18/May/2024:18:06:47 +0000] "POST //user/authentication HTTP/1.1" 404 160 "-" "PostmanRuntime/7.38.0"
+::1 - - [18/May/2024:18:07:04 +0000] "POST /user/authentication HTTP/1.1" 400 40 "-" "PostmanRuntime/7.38.0"
+::1 - - [18/May/2024:18:07:19 +0000] "POST /user/authentication HTTP/1.1" 400 40 "-" "PostmanRuntime/7.38.0"
+::1 - - [18/May/2024:18:07:55 +0000] "POST /user/authentication HTTP/1.1" 400 40 "-" "PostmanRuntime/7.38.0"
+::1 - - [18/May/2024:18:08:14 +0000] "POST /user/authentication HTTP/1.1" 200 103 "-" "PostmanRuntime/7.38.0"
